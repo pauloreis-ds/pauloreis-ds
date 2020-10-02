@@ -22,7 +22,7 @@ We torture data untill it confesses.
 
 ---
 
-[<img align="left" width="35" height="35" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/linkedin.png">](https://www.linkedin.com/in/paulo-reis-b1a2101b1/) [Linkedin.](https://www.linkedin.com/in/paulo-reis-b1a2101b1/)
+[<img align="left" width="35" height="35" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/linkedin.png">](https://www.linkedin.com/in/paulo-reis-b1a2101b1/) [LinkedIn.](https://www.linkedin.com/in/paulo-reis-b1a2101b1/)
 
 ---
 
