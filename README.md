@@ -20,6 +20,8 @@ We torture data untill it confesses.
 
 [<img align="left" width="45" height="45" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PauloReis0.png">](https://sites.google.com/view/pauloreis/in%C3%ADcio-py) [Blog.](https://sites.google.com/view/pauloreis/in%C3%ADcio-py).
 <br>
+
 [<img align="left" width="45" height="45" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/linkedin.png">](https://www.linkedin.com/in/paulo-reis-b1a2101b1/) [Linkedin.](https://www.linkedin.com/in/paulo-reis-b1a2101b1/).
 <br>
+
 [<img align="left" width="45" height="45" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/insta%20logo.jpg">](https://www.instagram.com/pauloreis.py/) [Instagram.](https://www.instagram.com/pauloreis.py/).
