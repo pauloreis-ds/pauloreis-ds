@@ -18,14 +18,14 @@ We torture data untill it confesses.
 > "_A ideia no precipício era me jogar em uma quinzena de esforço para criar 5 projetinhos sobre cada tópico \[...] Quanta ingenuidade kkkk, levei bem mais que 15 dias \[...] O fato é: \[...] Se atalho fosse bom, ele seria o caminho._". Ciência de Dados — [Minha Jornada](https://sites.google.com/view/pauloreis/artigos/minha-jornada).
 
 
-[<img align="left" width="45" height="45" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PauloReis0.png">](https://sites.google.com/view/pauloreis/in%C3%ADcio-py) [Blog.](https://sites.google.com/view/pauloreis/in%C3%ADcio-py)
+[<img align="left" width="40" height="40" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PauloReis0.png">](https://sites.google.com/view/pauloreis/in%C3%ADcio-py) [Blog.](https://sites.google.com/view/pauloreis/in%C3%ADcio-py)
 
 ---
 
-[<img align="left" width="45" height="45" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/linkedin.png">](https://www.linkedin.com/in/paulo-reis-b1a2101b1/) [Linkedin.](https://www.linkedin.com/in/paulo-reis-b1a2101b1/)
+[<img align="left" width="40" height="40" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/linkedin.png">](https://www.linkedin.com/in/paulo-reis-b1a2101b1/) [Linkedin.](https://www.linkedin.com/in/paulo-reis-b1a2101b1/)
 
 ---
 
-[<img align="left" width="45" height="45" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/insta%20logo.jpg">](https://www.instagram.com/pauloreis.py/) [Instagram.](https://www.instagram.com/pauloreis.py/)
+[<img align="left" width="40" height="40" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/insta%20logo.jpg">](https://www.instagram.com/pauloreis.py/) [Instagram.](https://www.instagram.com/pauloreis.py/)
 
 ---
