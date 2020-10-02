@@ -27,3 +27,5 @@ We torture data untill it confesses.
 ---
 
 [<img align="left" width="45" height="45" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/insta%20logo.jpg">](https://www.instagram.com/pauloreis.py/) [Instagram.](https://www.instagram.com/pauloreis.py/)
+
+---
