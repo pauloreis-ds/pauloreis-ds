@@ -9,8 +9,8 @@ class FutureDataScientist:
   def __init__(self, learnings):
     self.development(learnings)
   
-  be.inspired()
-  find.insights()
+be.inspired()
+find.insights()
 ```
 
 
