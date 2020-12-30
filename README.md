@@ -31,3 +31,7 @@ find.insights()
 [<img align="left" width="35" height="35" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/insta%20logo.jpg">](https://www.instagram.com/pauloreis.py/) [Instagram.](https://www.instagram.com/pauloreis.py/)
 
 ---
+
+[<img align="left" width="35" height="35" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PRojects.png">](https://www.instagram.com/pauloreis.py/) [Projects.](https://github.com/pauloreis-ds/projects)
+
+---
