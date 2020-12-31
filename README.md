@@ -36,4 +36,4 @@ find.insights()
 
 ---
 
-[\\(\*O\*)/Data Science Project Pipeline.](https://github.com/pauloreis-ds/projects/blob/main/Data%20Science%20Pipeline.ipynb)
+[\\(\*O\*)/ Data Science Project Pipeline.](https://github.com/pauloreis-ds/projects/blob/main/Data%20Science%20Pipeline.ipynb)
