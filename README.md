@@ -35,3 +35,5 @@ find.insights()
 [<img align="left" width="35" height="35" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PRojects.png">](https://github.com/pauloreis-ds/projects) [Projects.](https://github.com/pauloreis-ds/projects)
 
 ---
+
+[\\(\*O\*)/Data Science Project Pipeline.](https://github.com/pauloreis-ds/projects/blob/main/Data%20Science%20Pipeline.ipynb)
