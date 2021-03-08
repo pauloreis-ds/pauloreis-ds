@@ -37,3 +37,4 @@ find.insights()
 ---
 
 [\\(\*O\*)/ Data Science Project Pipeline.](https://nbviewer.jupyter.org/github/pauloreis-ds/projects/blob/master/Data%20Science%20Pipeline.ipynb)
+[~ (* - * ~ ) ~ ( * - * ) ~ (~ * - *)~ Machine Learning Pipeline.](https://github.com/pauloreis-ds/projects/blob/master/Machine%20Learning%20Pipeline.ipynb)
