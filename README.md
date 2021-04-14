@@ -40,4 +40,4 @@ find.insights()
 
 [~ (* - * ~ ) ~ ( * - * ) ~ (~ * - *)~ Machine Learning Pipeline.](https://nbviewer.jupyter.org/github/pauloreis-ds/projects/blob/master/Machine%20Learning%20Pipeline.ipynb)
 
-[;) Storytelling With Data.](https://github.com/pauloreis-ds/ds-utils/tree/main/storytelling_with_data)
+[; ) Storytelling With Data.](https://github.com/pauloreis-ds/ds-utils/tree/main/storytelling_with_data)
