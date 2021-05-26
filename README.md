@@ -20,7 +20,7 @@ find.insights()
 > "_A ideia no precipício era me jogar em uma quinzena de esforço para criar 5 projetinhos sobre cada tópico \[...] Quanta ingenuidade kkkk, levei bem mais que 15 dias \[...] O fato é: \[...] Se atalho fosse bom, ele seria o caminho._". Ciência de Dados — [Minha Jornada](https://sites.google.com/view/pauloreis/artigos/minha-jornada).
 
 
-[<img align="left" width="35" height="35" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PauloReis0.png">](https://sites.google.com/view/pauloreis/in%C3%ADcio-py) [Blog.](https://sites.google.com/view/pauloreis/in%C3%ADcio-py)
+[<img align="left" width="35" height="35" src="https://github.com/pauloreis-ds/Paulo-Reis-Data-Science/blob/master/Paulo%20Reis/PauloReis0.png">](https://pauloreis-ds.github.io/portfolio/) [Blog.](https://pauloreis-ds.github.io/portfolio/)
 
 ---
 
