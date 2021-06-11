@@ -1,11 +1,11 @@
-[![author](https://img.shields.io/badge/author-PauloReis-black.svg)](https://www.kaggle.com/paulosabinoreis) 
+[![author](https://img.shields.io/badge/author-PauloReis-black.svg)](https://www.kaggle.com/pauloreisdatascience) 
 [![GPLv3 license](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/pauloreis-ds/Projetos)
 
 ```python
 import data
 
-class FutureDataScientist:
+class DataScientist:
   def __init__(self, learnings):
     self.development(learnings)
   
@@ -36,8 +36,11 @@ find.insights()
 
 ---
 
+
 [\\(\*O\*)/ Data Science Project Pipeline.](https://nbviewer.jupyter.org/github/pauloreis-ds/projects/blob/master/Data%20Science%20Pipeline.ipynb)
 
 [~ (* - * ~ ) ~ ( * - * ) ~ (~ * - *)~ Machine Learning Pipeline.](https://nbviewer.jupyter.org/github/pauloreis-ds/projects/blob/master/Machine%20Learning%20Pipeline.ipynb)
 
 [; ) Storytelling With Data.](https://github.com/pauloreis-ds/ds-utils/tree/main/storytelling_with_data)
+
+[Análise da Proposta do Projeto.](https://nbviewer.jupyter.org/github/pauloreis-ds/projects/blob/master/Project%20Proposal%20Analysis.ipynb)
