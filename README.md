@@ -14,7 +14,7 @@ find.insights()
 ```
 
 
-<sub>*We torture data untill it confesses.*</sub>
+<sub>*Transforming Data into Opportunities*</sub>
 
 
 > "_A ideia no precipício era me jogar em uma quinzena de esforço para criar 5 projetinhos sobre cada tópico \[...] Quanta ingenuidade kkkk, levei bem mais que 15 dias \[...] O fato é: \[...] Se atalho fosse bom, ele seria o caminho._". Ciência de Dados — [Minha Jornada](https://sites.google.com/view/pauloreis/artigos/minha-jornada).
