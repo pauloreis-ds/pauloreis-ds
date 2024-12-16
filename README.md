@@ -44,3 +44,5 @@ find.insights()
 [; ) Storytelling With Data.](https://github.com/pauloreis-ds/ds-utils/tree/main/storytelling_with_data)
 
 [Análise da Proposta do Projeto.](https://nbviewer.jupyter.org/github/pauloreis-ds/projects/blob/master/Project%20Proposal%20Analysis.ipynb)
+
+[Machine Learning Essentials](https://github.com/pauloreis-ds/machine-learning-essentials)
